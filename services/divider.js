@@ -7,5 +7,5 @@ function divider() {
   };
 }
 
-// eslint-disable-next-line new-cap
+
 module.exports = new divider();
